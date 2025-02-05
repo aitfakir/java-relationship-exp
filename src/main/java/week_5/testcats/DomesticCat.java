@@ -9,5 +9,9 @@ package week_5.testcats;
  * @author business
  */
 public class DomesticCat {
-    
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+
+    }
 }
